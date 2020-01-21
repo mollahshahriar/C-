@@ -54,7 +54,7 @@ namespace generat_random_number
 
             if (counter < MAXITERATIONS)
             {
-                lblAnswer.Text = "It took " + counter.ToString() + " passes to match";
+                lblAnswer.Text = "It took  " + counter.ToString() + " passes to match";
 
             }
             else
