@@ -1,0 +1,13 @@
+C:\Users\Programming9\source\repos\letter count\letter count\obj\Debug\letter count.csprojAssemblyReference.cache
+C:\Users\Programming9\source\repos\letter count\letter count\obj\Debug\letter_count.Form1.resources
+C:\Users\Programming9\source\repos\letter count\letter count\obj\Debug\letter_count.Properties.Resources.resources
+C:\Users\Programming9\source\repos\letter count\letter count\obj\Debug\letter count.csproj.GenerateResource.cache
+C:\Users\Programming9\source\repos\letter count\letter count\obj\Debug\letter count.csproj.CoreCompileInputs.cache
+C:\Users\Programming9\source\repos\letter count\letter count\bin\Debug\letter count.exe.config
+C:\Users\Programming9\source\repos\letter count\letter count\bin\Debug\letter count.exe
+C:\Users\Programming9\source\repos\letter count\letter count\bin\Debug\letter count.pdb
+C:\Users\Programming9\source\repos\letter count\letter count\obj\Debug\letter count.exe
+C:\Users\Programming9\source\repos\letter count\letter count\obj\Debug\letter count.pdb
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 8\letter count\letter count\obj\Debug\letter count.csprojAssemblyReference.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 8\letter count\letter count\obj\Debug\letter count.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 8\letter count\letter count\obj\Debug\letter count.pdb
