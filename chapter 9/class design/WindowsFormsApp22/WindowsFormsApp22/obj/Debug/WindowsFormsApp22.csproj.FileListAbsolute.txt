@@ -1,0 +1,10 @@
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csprojAssemblyReference.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Form1.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.Properties.Resources.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.GenerateResource.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.csproj.CoreCompileInputs.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe.config
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\bin\Debug\WindowsFormsApp22.pdb
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 9\class design\WindowsFormsApp22\WindowsFormsApp22\obj\Debug\WindowsFormsApp22.pdb
