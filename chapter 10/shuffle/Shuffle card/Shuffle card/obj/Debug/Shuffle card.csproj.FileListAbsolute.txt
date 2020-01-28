@@ -1,0 +1,10 @@
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\bin\Debug\Shuffle card.exe.config
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\bin\Debug\Shuffle card.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\bin\Debug\Shuffle card.pdb
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\obj\Debug\Shuffle card.csprojAssemblyReference.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\obj\Debug\Shuffle_card.Form1.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\obj\Debug\Shuffle_card.Properties.Resources.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\obj\Debug\Shuffle card.csproj.GenerateResource.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\obj\Debug\Shuffle card.csproj.CoreCompileInputs.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\obj\Debug\Shuffle card.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\chapter 10\shuffle\Shuffle card\Shuffle card\obj\Debug\Shuffle card.pdb
