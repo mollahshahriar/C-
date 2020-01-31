@@ -1,0 +1,11 @@
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\obj\Debug\netcoreapp2.1\exam practice.csprojAssemblyReference.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\obj\Debug\netcoreapp2.1\exam practice.csproj.CoreCompileInputs.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\obj\Debug\netcoreapp2.1\exam practice.AssemblyInfoInputs.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\obj\Debug\netcoreapp2.1\exam practice.AssemblyInfo.cs
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\bin\Debug\netcoreapp2.1\exam practice.deps.json
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\bin\Debug\netcoreapp2.1\exam practice.runtimeconfig.json
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\bin\Debug\netcoreapp2.1\exam practice.runtimeconfig.dev.json
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\bin\Debug\netcoreapp2.1\exam practice.dll
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\bin\Debug\netcoreapp2.1\exam practice.pdb
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\obj\Debug\netcoreapp2.1\exam practice.dll
+C:\Users\Programming9\Documents\SQL Server Management Studio\Final project\Blood-Donation-Database\C-\New folder\exam practice\exam practice\obj\Debug\netcoreapp2.1\exam practice.pdb
